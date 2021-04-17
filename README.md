@@ -29,3 +29,5 @@ global_data - This contains the average global temperatures by year (ºC).
 ### The steps to do:
 
 We should download all the nesseccary files, such as cvs file with weather temperature data. 
+
+
