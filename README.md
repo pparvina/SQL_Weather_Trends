@@ -25,3 +25,7 @@ There are three tables in the database:
 city_list - This contains a list of cities and countries in the database. Look through them in order to find the city nearest to you.
 city_data - This contains the average temperatures for each city by year (ºC).
 global_data - This contains the average global temperatures by year (ºC).
+
+### The steps to do:
+
+We should download all the nesseccary files, such as cvs file with weather temperature data. 
