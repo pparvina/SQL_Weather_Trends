@@ -1,4 +1,4 @@
-# SQL_Weather_Trends
+# Weather_Trends
 
 In this project, I analyzeed local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
