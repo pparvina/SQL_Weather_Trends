@@ -26,7 +26,9 @@ Create a line chart that compares your city’s temperatures with the global tem
 
 ## Key findings
 
-
+1. The Los Angeles, USA average temperature is hotter compared to the global temperature average. 
+2. Celsius and the average temperature was approximately 15 Celsius beginning of the 1800’s and since 1970’s temperature has been increasing over 16 Celsius. The similar scenario can be seen in global temperatures as well where the temperature rise was around 8 Celsius beginning of the 1800’s and from 1970’s it can be detected the temperature rise from 8 Celsius to approximately going upwards to 10 Celsius.
+3. The trend for the world temperature shows the world is getting hotter, and our observation from the above data confirms this statement. My observation from the above data shows that Global temperatures and Los Angeles temperatures between the years of 1800-2000 show the upward trend specifically the rise in temperature has been exponentially rising since 1970’s. One explanation for this trend perhaps the effect of climate change that is expected to bring hotter temperatures.
 
 
 
