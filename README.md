@@ -1,4 +1,4 @@
-# Weather_Trends
+# Exploring Weather Trends
 
 In this project, I analyzed local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 I made observations about the similarities and differences between the world averages and my city’s averages, as well as overall trends. 
@@ -11,7 +11,12 @@ Here are some questions I have answered in the project.
 
 ## INSTRUCTIONS
 
-Extract the data from the database
+Getting started
+
+You need an installation of Excel, plus the following:
+
+SQL
+Python (optional)
 
 You’ll need to export the temperature data for the world as well as for the closest big city to where you live. You can find a list of cities and countries in the city_list table. To interact with the database, you'll need to write a SQL query.
 Write a SQL query to extract the city level data. Export to CSV.
@@ -19,12 +24,9 @@ Write a SQL query to extract the global data. Export to CSV.
 Open up the CSV in whatever tool you feel most comfortable using. We suggest using Excel or Google sheets, but you are welcome to use another tool, such as Python or R.
 Create a line chart that compares your city’s temperatures with the global temperatures. Make sure to plot the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable (the last concept in the previous lesson goes over how to do this in a spreadsheet).
 
-## The Database Schema
-There are three tables in the database:
+## Key findings
 
-city_list - This contains a list of cities and countries in the database. Look through them in order to find the city nearest to you.
-city_data - This contains the average temperatures for each city by year (ºC).
-global_data - This contains the average global temperatures by year (ºC).
+
 
 
 
